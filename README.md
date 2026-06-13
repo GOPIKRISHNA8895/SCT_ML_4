@@ -283,7 +283,7 @@ Machine Learning Intern – SkillCraft Technology
 
 🔗 **GitHub:[https://github.com/GOPIKRISHNA8895/SCT_ML_4.git]
 
-🌐 **Live Demo: [Your Streamlit Deployment Link]
+🌐 **Live Demo: [https://mlhandgesturerecognition04.streamlit.app/]
 
 ---
 
